@@ -4,18 +4,21 @@
 ---
 ### *Repository Contains:
 
-- <b>Topic Modelling_LDA_SKLearn.ipynb</b>: Notebook containing NLP and Topic Modelling Analysis using Product Reviews and SKlearn Clustering & LDA 
+- <b>Gensim LDA NLP_Model Project.ipynb</b>: Notebook containing NLP and Topic Modelling Analysis using Product Reviews, SKlearn Clustering & LDA with Gensim 
 - <b>Requirements.txt</b>: List of libraries/dependencies used
+- <b>Models Folder</b>: Contains Saved model data
+- <b>data Folder</b>: Contains processed data for model training
 
 ---
 ### * Main Libraries Used
 
 * NLTK
+* Gensim
 * Pandas
 * Numpy
 * SkLearn
+* PyLDAVis
 * Matplotlib
 * Seaborn
 * Plotly
-* Random
 * Re
