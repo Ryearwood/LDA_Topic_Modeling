@@ -6,3 +6,16 @@ Review_data.csv
 .ipynb_checkpoints/LDA_Gensim-checkpoint.ipynb
 .ipynb_checkpoints/Topic Modeling_LDA_SKLearn-checkpoint.ipynb
 .ipynb_checkpoints/Text_Gen_Model-checkpoint.ipynb
+.ipynb_checkpoints/Data Structuring-checkpoint.ipynb
+.ipynb_checkpoints/Functions-checkpoint.py
+.ipynb_checkpoints/HDP_Tomotopy-checkpoint.ipynb
+.ipynb_checkpoints/NMF_SKLearn-checkpoint.ipynb
+.ipynb_checkpoints/Pachinko_Tomotopy-checkpoint.ipynb
+.ipynb_checkpoints/Sentiment Analysis Modelling-checkpoint.ipynb
+.ipynb_checkpoints/Text_Gen_Summarizer-checkpoint.ipynb
+__pycache__/Functions.cpython-38.pyc
+data/.ipynb_checkpoints/GPT-2-checkpoint.ipynb
+data/.ipynb_checkpoints/top_dominant_results-checkpoint.csv
+data/cluster_data/.ipynb_checkpoints/cluster_data-checkpoint.csv
+data/cluster_data/.ipynb_checkpoints/results-checkpoint.csv
+data/cluster_data/.ipynb_checkpoints/results_dict-checkpoint
