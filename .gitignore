@@ -41,3 +41,10 @@ data/Text_Gen_Files/Clean_Text_Topic_7
 data/Text_Gen_Files/Clean_Text_Topic_8
 data/Text_Gen_Files/Clean_Text_Topic_9
 *.txt
+.ipynb_checkpoints/DNN Text-Emotion Recognition -checkpoint.ipynb
+.ipynb_checkpoints/Text2Emotion-checkpoint.ipynb
+data/Datasets/.ipynb_checkpoints/compiled_data-checkpoint.csv
+data/Datasets/.ipynb_checkpoints/Review_data-checkpoint.csv
+data/HDP Results/IDF Model/.ipynb_checkpoints/HDP_IDF_Model_results-checkpoint.csv
+data/HDP Results/ONE Model/.ipynb_checkpoints/HDP_ONE_Model_results-checkpoint.csv
+data/HDP Results/PMI Model/.ipynb_checkpoints/HDP_PMI_Model_results-checkpoint.csv
