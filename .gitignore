@@ -63,3 +63,4 @@ data/HDP Results/ONE Model/HDP_ONE_Model_results.csv
 data/HDP Results/PMI Model/HDP_PMI_Model_results.csv
 data/top_dominant_results.csv
 data/GPT-2.ipynb
+data/Pickles/Sentiment140/tokenizer.pkl
