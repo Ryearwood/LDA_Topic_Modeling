@@ -48,3 +48,17 @@ data/Datasets/.ipynb_checkpoints/Review_data-checkpoint.csv
 data/HDP Results/IDF Model/.ipynb_checkpoints/HDP_IDF_Model_results-checkpoint.csv
 data/HDP Results/ONE Model/.ipynb_checkpoints/HDP_ONE_Model_results-checkpoint.csv
 data/HDP Results/PMI Model/.ipynb_checkpoints/HDP_PMI_Model_results-checkpoint.csv
+.ipynb_checkpoints/Train_Sentiment_Analysis-checkpoint.ipynb
+data/Datasets/random_sample_data.csv
+data/Datasets/Sentiment140.csv
+data/Datasets/yelp_reviews.csv
+data/Datasets/pubmed-oa-subset.csv
+data/Datasets/papers.csv
+data/Datasets/compiled_data.csv
+data/cluster_data/results_dict
+data/cluster_data/results.csv
+data/cluster_data/cluster_data.csv
+data/HDP Results/IDF Model/HDP_IDF_Model_results.csv
+data/HDP Results/ONE Model/HDP_ONE_Model_results.csv
+data/HDP Results/PMI Model/HDP_PMI_Model_results.csv
+data/top_dominant_results.csv
