@@ -65,3 +65,4 @@ data/top_dominant_results.csv
 data/GPT-2.ipynb
 data/Pickles/Sentiment140/tokenizer.pkl
 data/Models/Sentiment_Analysis/gru_model.h5
+.ipynb_checkpoints/Retrieve_Tweets-checkpoint.ipynb
