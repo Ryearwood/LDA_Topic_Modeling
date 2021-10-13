@@ -69,3 +69,6 @@ data/Models/Sentiment_Analysis/gru_model.h5
 data/Models/Emotion_Recognition/LSTM-Bidirectional.h5
 data/Datasets/#angry.csv
 data/Datasets/.ipynb_checkpoints/#angry-checkpoint.csv
+.ipynb_checkpoints/Compile_Tweets-checkpoint.ipynb
+.ipynb_checkpoints/Sentiment_Score_Tweets-checkpoint.ipynb
+*.csv
