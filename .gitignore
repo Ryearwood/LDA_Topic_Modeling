@@ -73,3 +73,5 @@ data/Datasets/.ipynb_checkpoints/#angry-checkpoint.csv
 .ipynb_checkpoints/Sentiment_Score_Tweets-checkpoint.ipynb
 *.csv
 .ipynb_checkpoints/Recommender - Data Prep-checkpoint.ipynb
+recommender_df.pkl
+data/Datasets/Recommender Systems/adult.data
