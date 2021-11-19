@@ -81,3 +81,4 @@ data/Models/Emotion_Recognition/LSTM-Bidirectional_tuned.h5
 .ipynb_checkpoints/Generate_Text_Summary-checkpoint.ipynb
 .ipynb_checkpoints/User_Profile_Recommender-checkpoint.ipynb
 data/Models/Emotion_Recognition/DNN_tokenizer.pkl
+recom_dict.pkl
