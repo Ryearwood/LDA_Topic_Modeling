@@ -77,3 +77,7 @@ recommender_df.pkl
 data/Datasets/Recommender Systems/adult.data
 .ipynb_checkpoints/Recommender - User_Profiling-checkpoint.ipynb
 data/Models/Emotion_Recognition/LSTM-Bidirectional_tuned.h5
+.ipynb_checkpoints/Classify_Emotion-checkpoint.ipynb
+.ipynb_checkpoints/Generate_Text_Summary-checkpoint.ipynb
+.ipynb_checkpoints/User_Profile_Recommender-checkpoint.ipynb
+data/Models/Emotion_Recognition/DNN_tokenizer.pkl
